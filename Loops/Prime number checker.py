@@ -5,4 +5,4 @@ if number>1:
         if number%num==0:
             prime=False
             break
-print(prime)
+print(prime)  
