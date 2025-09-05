@@ -1,0 +1,9 @@
+v={9,"9.0"}
+print(v)
+#or
+x={
+    ("float",9.0),
+    ("int",9)
+}
+print(x)
+print(set(x))
