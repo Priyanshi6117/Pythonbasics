@@ -6,4 +6,3 @@ x={
     ("int",9)
 }
 print(x)
-print(set(x))

@@ -1,6 +1,6 @@
-maths=int(input("Enter marks:"))
-chem=int(input("Enter marks:"))
-phy=int(input("Enter marks:"))
+maths=int(input("Enter maths marks:"))
+chem=int(input("Enter chem marks:"))
+phy=int(input("Enter phy marks:"))
 d={}
 d.update({"Maths": maths})
 d.update({"Chem": chem})
